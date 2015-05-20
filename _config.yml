@@ -1,0 +1,12 @@
+# Site settings
+title: North Coast Challenge
+email: jstarker@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A series of challenges for the right to win and modify the North Coast
+  Challenge trophy.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://northcoastchallenge.website"
+github_username:  bitbier
+
+# Build settings
+markdown: kramdown
